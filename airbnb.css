@@ -1,0 +1,35 @@
+.logo
+{
+	border: 1px solid #bbbbbb;
+	width: 100px;
+	height: 80px;
+	position: relative;
+	top: 17px;
+	display: inline-block;
+}
+.horizontal
+{
+	display: inline;
+}
+.host
+{
+	top: 30px;
+	right: 10px;
+}
+.time
+{
+	top: 30px;
+	right: 60px;
+}
+.help
+{
+	top: 30px;
+}
+.sign_up
+{
+	top: 30px;
+}
+.log_in
+{
+	top: 30px;
+}
