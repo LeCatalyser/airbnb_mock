@@ -1,6 +1,10 @@
+
+*
+{
+	font-family:'Source Sans Pro', sans-serif;
+}
 .logo
 {
-	border: 1px solid #bbbbbb;
 	width: 100px;
 	height: 80px;
 	position: relative;
@@ -10,6 +14,7 @@
 .horizontal
 {
 	display: inline;
+	color: #999999;
 }
 .host
 {
@@ -32,4 +37,13 @@
 .log_in
 {
 	top: 30px;
+}
+.book
+{
+	font-size: 20px;
+}
+.airbnb
+{
+	color:	#ff6f69;
+	
 }
