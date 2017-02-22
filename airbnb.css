@@ -50,12 +50,24 @@
 	color:	#ff6f69;
 	
 }
-.link
+.link_host
 {
 	color: #999999;
+}
+.link_help
+{
+	color: ##bfbfbf;
 }
 h1
 {
 	text-align: left;
 	font-size: 95px;
+}
+.search_box
+{
+	border: 1px solid #bbbbbb;
+	border-radius: 3px;
+	display: inline-block;
+	position: relative;
+	left: 50px;
 }
