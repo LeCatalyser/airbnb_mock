@@ -1,7 +1,7 @@
 
 *
 {
-	font-family:'Source Sans Pro', sans-serif;
+	font-family: arial;
 }
 .logo
 {
@@ -9,34 +9,37 @@
 	height: 80px;
 	position: relative;
 	top: 17px;
-	display: inline-block;
+	
 }
 .horizontal
 {
 	display: inline;
+	position: static;
 	color: #999999;
 }
 .host
 {
-	top: 30px;
-	right: 10px;
-}
-.time
-{
-	top: 30px;
-	right: 60px;
+	right: 40px;
+	top: 80px;
+	color: #999999;
 }
 .help
 {
-	top: 30px;
+	top: 40px;
+	right: 60px;
+	color: #999999;
 }
 .sign_up
 {
-	top: 30px;
+	top: 40px;
+	right: 30px;
+	color: #999999;
 }
 .log_in
 {
-	top: 30px;
+	top: 40px;
+	right: 20px;
+	color: #999999;
 }
 .book
 {
@@ -46,4 +49,13 @@
 {
 	color:	#ff6f69;
 	
+}
+.link
+{
+	color: #999999;
+}
+h1
+{
+	text-align: left;
+	font-size: 95px;
 }
