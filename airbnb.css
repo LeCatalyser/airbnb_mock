@@ -78,6 +78,15 @@ h1
 	text-align: left;
 	font-size: 95px;
 }
+.search_containers
+{
+	display: inline-block;
+}
+.search_containers label
+{
+	display: block;
+	padding: 20px;
+}
 .search_box
 {
 	border: none;
@@ -85,6 +94,7 @@ h1
 	position: static;
 	padding: 20px;
 	left: 40px;	
+	font-size: 20px;
 }
 .search_box:focus
 {
