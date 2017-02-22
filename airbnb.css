@@ -8,8 +8,7 @@
 	width: 100px;
 	height: 80px;
 	position: relative;
-	top: 17px;
-	
+	top: 17px;	
 }
 .horizontal
 {
@@ -56,7 +55,7 @@
 }
 .link_help
 {
-	color: ##bfbfbf;
+	color: #bfbfbf;
 }
 h1
 {
@@ -68,6 +67,25 @@ h1
 	border: 1px solid #bbbbbb;
 	border-radius: 3px;
 	display: inline-block;
-	position: relative;
-	left: 50px;
+	position: static;
+	padding: 20px;
+	left: 20px;
+}
+.when
+{
+	border: 1px solid #bbbbbb;
+	border-radius: 3px;
+	display: inline-block;
+	position: static;
+	padding: 20px;
+	left: 40px;	
+}
+.guest
+{
+	border: 1px solid #bbbbbb;
+	border-radius: 3px;
+	display: inline-block;
+	position: static;
+	padding: 20px;
+	left: 60px;	
 }
