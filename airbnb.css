@@ -3,6 +3,23 @@
 {
 	font-family: arial;
 }
+.user_navigation
+{
+	position: absolute;
+	top: 20px;
+	right: 30px;
+}
+.user_navigation a 
+{
+	color: #bfbfbf;
+	text-decoration: none;
+}
+.user_navigation li
+{
+	display: inline-block;
+	padding: 15px;
+
+}
 .logo
 {
 	width: 100px;
@@ -10,11 +27,6 @@
 	position: relative;
 	top: 17px;	
 }
-.horizontal
-{
-	display: inline;
-	position: static;
-	color: #999999;
 }
 .host
 {
@@ -42,11 +54,15 @@
 }
 .book
 {
-	font-size: 20px;
+	font-size: 60px;
+	font-family: helvetica;
+	font-weight: 200;
+	color: #b2b2b2;
 }
 .airbnb
 {
 	color:	#ff6f69;
+	font-weight: 600;
 	
 }
 .link_host
@@ -64,28 +80,16 @@ h1
 }
 .search_box
 {
-	border: 1px solid #bbbbbb;
-	border-radius: 3px;
-	display: inline-block;
-	position: static;
-	padding: 20px;
-	left: 20px;
-}
-.when
-{
-	border: 1px solid #bbbbbb;
-	border-radius: 3px;
+	border: none;
 	display: inline-block;
 	position: static;
 	padding: 20px;
 	left: 40px;	
 }
-.guest
+.search_box:focus
 {
-	border: 1px solid #bbbbbb;
-	border-radius: 3px;
-	display: inline-block;
-	position: static;
-	padding: 20px;
-	left: 60px;	
+	border-bottom: 1px solid black;
+	outline: none;
+
 }
+
