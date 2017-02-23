@@ -1,7 +1,7 @@
 
 *
 {
-	font-family: arial;
+	font-family: aria;
 }
 .user_navigation
 {
@@ -81,11 +81,15 @@ h1
 .search_containers
 {
 	display: inline-block;
+	margin-right: auto;
+	margin-left: auto;
+
 }
 .search_containers label
 {
 	display: block;
 	padding: 20px;
+
 }
 .search_box
 {
