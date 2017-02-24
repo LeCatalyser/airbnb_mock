@@ -88,16 +88,17 @@ h1
 {
 	display: block;
 	padding: 20px;
-
+	position: relative;
+	text-align: right;	
 }
 .search_box
 {
 	border: none;
 	display: inline-block;
-	position: static;
+	position: relative;
 	padding: 20px;
 	left: 40px;	
-	font-size: 20px;
+	font-size: 20px
 }
 .search_box:focus
 {
