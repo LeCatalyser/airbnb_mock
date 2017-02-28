@@ -161,7 +161,6 @@ h2
 }
 .experiences
 {
-  	height: 490px; 
 	width: 100%;
 	display: inline-block;
 	list-style: none;
@@ -172,12 +171,11 @@ h2
 {
 	display: inline-block;
 	width: 25%;
-	height: 100%;
 	padding: 8px;
 }
 .travel_images img
 {
-	height: 100%;
+	width: 100%;
 }
 .row_2
 {
