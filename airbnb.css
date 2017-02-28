@@ -2,6 +2,7 @@
 *
 {
 	font-family: sans-serif;
+	box-sizing: border-box;
 }
 .user_navigation
 {
@@ -158,10 +159,39 @@ h2
     font-family: sans-serif;
     color: black;
 }
-.row_1
+.experiences
+{
+  	height: 490px; 
+	width: 100%;
+	display: inline-block;
+	list-style: none;
+	padding: 0px;
+	font-size: 0px;
+	}
+.travel_images
 {
 	display: inline-block;
-	
+	width: 25%;
+	height: 100%;
+	padding: 8px;
 }
+.travel_images img
+{
+	height: 100%;
+}
+.row_2
+{
+	width: 33%;
+	padding: 10;
+	text-align: center;
+}
+.three_images
+{
+	padding-left: 80px;
+	padding-right: 80px;
+}
+
+
+
 
 
