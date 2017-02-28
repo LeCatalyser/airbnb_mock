@@ -189,6 +189,20 @@ h2
 	padding-right: 80px;
 }
 
+/*break-point*/
+@media (max-width: 640px) 
+{
+	.travel_images
+	{
+		width:100%;
+	}
+	.three_images
+	{
+		padding: 0%;
+	}
+	
+}
+
 
 
 
